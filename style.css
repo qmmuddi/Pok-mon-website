@@ -51,7 +51,7 @@ h1{
 .box-1{
     height: 400px;
     width: 577px;
-    border: 1px solid black;
+/*     border: 1px solid black; */
     margin: 10px;
 }
 .box-1-a p{
