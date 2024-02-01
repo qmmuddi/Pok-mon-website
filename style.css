@@ -7,6 +7,24 @@
     justify-content: center;
     align-items: center;
 }
+.imag-1 img{
+  border-bottom: 4px solid yellow;
+}
+.imag-2 img{
+    border-bottom: 4px solid black;
+  }
+  .imag-3 img{
+    border-bottom: 4px solid orange;
+  }
+  .imag-4 img{
+    border-bottom: 4px solid maroon;
+  }
+  .imag-5 img{
+    border-bottom: 4px solid rgb(44, 38, 38);
+  }
+  .imag-6 img{
+    border-bottom: 4px solid blue;
+  }
 .navbar{
   height: 60px;
   width: 100%;
